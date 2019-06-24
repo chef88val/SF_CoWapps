@@ -10,7 +10,7 @@
                 <fieldset class="slds-box slds-theme--default slds-container--small">
                     <legend id="newCampingItem" class="slds-text-heading--small 
                                                        slds-p-vertical--medium">
-                        Add Camping Item
+                        Add Camping Item--
                     </legend>
                        <!-- NEW ITEM FORM -->
     <div class="slds-col slds-col--padded slds-p-top--large">
